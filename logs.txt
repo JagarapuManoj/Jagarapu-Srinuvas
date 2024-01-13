@@ -1,0 +1,42 @@
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-
+Fri Jan  5 23:48:51 IST 2024
+[Fri Jan  5 23:48:52 2024] PHP 8.2.8 Development Server (http://localhost:8080) started
+[Fri Jan  5 23:48:57 2024] 127.0.0.1:37918 Accepted
+[Fri Jan  5 23:48:57 2024] 127.0.0.1:37934 Accepted
+[Fri Jan  5 23:48:57 2024] 127.0.0.1:37918 [200]: GET /
+[Fri Jan  5 23:48:57 2024] 127.0.0.1:37918 Closing
+[Fri Jan  5 23:48:57 2024] 127.0.0.1:37944 Accepted
+[Fri Jan  5 23:48:57 2024] 127.0.0.1:37934 [200]: GET /assets/logo.png
+[Fri Jan  5 23:48:57 2024] 127.0.0.1:37934 Closing
+[Fri Jan  5 23:48:57 2024] 127.0.0.1:37944 [404]: GET /favicon.ico - No such file or directory
+[Fri Jan  5 23:48:57 2024] 127.0.0.1:37944 Closing
+[Fri Jan  5 23:49:41 2024] 127.0.0.1:40802 Accepted
+[Fri Jan  5 23:49:41 2024] 127.0.0.1:40802 [200]: GET /
+[Fri Jan  5 23:49:41 2024] 127.0.0.1:40810 Accepted
+[Fri Jan  5 23:49:41 2024] 127.0.0.1:40802 Closing
+[Fri Jan  5 23:49:41 2024] 127.0.0.1:40810 [200]: GET /assets/logo.png
+[Fri Jan  5 23:49:41 2024] 127.0.0.1:40810 Closing
+[Fri Jan  5 23:50:53 2024] 127.0.0.1:42074 Accepted
+[Fri Jan  5 23:50:53 2024] 127.0.0.1:42074 [200]: GET /
+[Fri Jan  5 23:50:53 2024] 127.0.0.1:42074 Closing
+[Fri Jan  5 23:50:53 2024] 127.0.0.1:42086 Accepted
+[Fri Jan  5 23:50:53 2024] 127.0.0.1:42086 [200]: GET /assets/logo.png
+[Fri Jan  5 23:50:53 2024] 127.0.0.1:42086 Closing
+[Fri Jan  5 23:51:28 2024] 127.0.0.1:49942 Accepted
+[Fri Jan  5 23:51:28 2024] 127.0.0.1:49942 [302]: POST /php/signup.php
+[Fri Jan  5 23:51:28 2024] 127.0.0.1:49942 Closing
+[Fri Jan  5 23:51:28 2024] 127.0.0.1:49946 Accepted
+[Fri Jan  5 23:51:28 2024] 127.0.0.1:49950 Accepted
+[Fri Jan  5 23:51:28 2024] 127.0.0.1:49946 [200]: GET /html/welcome.html
+[Fri Jan  5 23:51:28 2024] 127.0.0.1:49946 Closing
+[Fri Jan  5 23:51:38 2024] 127.0.0.1:49950 [200]: GET /txt/register.txt
+[Fri Jan  5 23:51:38 2024] 127.0.0.1:39682 Accepted
+[Fri Jan  5 23:51:38 2024] 127.0.0.1:49950 Closing
+[Fri Jan  5 23:52:04 2024] 127.0.0.1:39682 [200]: GET /html/FP.html
+[Fri Jan  5 23:52:04 2024] 127.0.0.1:39682 Closing
+[Fri Jan  5 23:52:04 2024] 127.0.0.1:41730 Accepted
+[Fri Jan  5 23:52:04 2024] 127.0.0.1:41734 Accepted
+[Fri Jan  5 23:52:04 2024] 127.0.0.1:41730 [200]: GET /assets/logo.png
+[Fri Jan  5 23:52:04 2024] 127.0.0.1:41730 Closing
+[Fri Jan  5 23:52:19 2024] 127.0.0.1:41734 Closed without sending a request; it was probably just an unused speculative preconnection
+[Fri Jan  5 23:52:19 2024] 127.0.0.1:41734 Closing
